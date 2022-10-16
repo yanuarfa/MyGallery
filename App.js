@@ -12,7 +12,7 @@ const App = () => {
         <Text>Container 1</Text>
       </View>
       <View style={{backgroundColor: 'orange', flex: 1}}>
-        <Text>Container 1</Text>
+        <Text>Container 2</Text>
       </View>
     </View>
   );

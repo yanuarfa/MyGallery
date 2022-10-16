@@ -7,7 +7,7 @@ const TextInANest = () => {
   return (
     <View style={{flex: 1, padding: 20}}>
       <Text>Welcome to React Native</Text>
-      <Text>Text paragraph ke 2</Text>
+      <Text>Nama Saya Yanuar</Text>
     </View>
   );
 };
